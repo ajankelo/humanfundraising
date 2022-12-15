@@ -1,2 +1,3 @@
 # humanfundraising
-Open Source Prospect Research
+
+An open source Python library to accelerate and aide fundraising.
