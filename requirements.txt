@@ -1,4 +1,6 @@
 fastapi
 fire
 langchain
+pylint
+pytest
 uvicorn
