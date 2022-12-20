@@ -4,4 +4,5 @@ fire
 langchain
 pylint
 pytest
+pytest-cov
 uvicorn
