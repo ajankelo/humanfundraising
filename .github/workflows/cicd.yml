@@ -14,10 +14,10 @@ jobs:
         make install
     - name: Lint with Pylint
       run: |
-        make lint
+        # make lint
     - name: Test with Pytest
       run: |
-        make test
+        # make test
     - name: Format with Python Black
       run: |
-        make format
+        # make format
