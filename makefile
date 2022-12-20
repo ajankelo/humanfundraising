@@ -8,7 +8,7 @@ test:
 
 format:
 	#format commands
-	black *.py
+	black *.py humanfundraising/*.py
 lint:
 	#lint commands
 	pylint --disable=R,C --ignore-patterns=test_.*?py *.py humanfundraising/*.py
